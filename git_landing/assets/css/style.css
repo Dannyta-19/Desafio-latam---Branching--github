@@ -57,3 +57,23 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+footer {
+  background-color: #000000; /* Color de fondo */
+  color: #fff; /* Color del texto */
+  text-align: center;
+  padding: 20px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
